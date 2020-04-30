@@ -1,0 +1,824 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQEKwIAAOSKE61_HsUHF-cbCYExeotnzvQUIEQ5dGa4JKiz7lPkuFKQASjdsHiE2YHlha6AEPoWiC-CiGn__fyNiR83YXdk9esTKEaycO5fEUD3RCpJm3mQ0Ore2GIGrkQxa9q3VXeOtv5taBg2tZNZCg6ihnLdWCMY3eydszTPPIiC9qujZKzmsHhfCGhmbDP50FV2gKaFo6ckq8NuPGCSpWB9smLABI9wGL-8wwy13aGmQcbqWEXSDZgReqgtQsn5nMYzJLKSDHVHWPEvoOvMgUdGQ2kugKDVC7cW2XOF-3G1RTrD0jr7N68KSr1OS951l97wNOAPNpGInvb5rjCwlFLl0F6FZk0AvZdrstuZPiwDP6xryANhcGJOQf4jR6DEJ6uqqnBnJgnCaHeMDuIHuU5f3E4OqXkUx5PCa99CGe1ZXTm7ml1-b7mzPyVCaMQgqbDLIhkmXvfSZF1zqI1BWtfEcSgif6Yp859O92t3SqF8wQA6DOK8cGjS4uns95IJBfSehYDb32nZyYXvhPnGCMyqEXBPF1AGa6KIld53_3vUmsOkXQxoxypqDZUboK7CZO1Z6VS2JQu5KZX19bul3NJN6fbJUS5jzFEOQjuV4pNQWSEMVYAoFnyxXDLn00Chl0Nn1qlHbAVgx9WXdovASEdvd5FDperhlIdpReV15Iz5UL0j2gFsEi-vu8tvocBF6lxHcHiUslRXJ0tbLmdrFJaE2nl4jzuHeSDsT84tR4-AY4qjEhDh7qg0W21dZnHNmb7ryQTrGhRRC_FVBfdKiDTIpKktLIdNZeEGMQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0148297,
+               "lng" : 76.96491
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0161299802915,
+                  "lng" : 76.96608913029151
+               },
+               "southwest" : {
+                  "lat" : 11.0134320197085,
+                  "lng" : 76.96339116970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "087b03adcadca81a99785f3f611bb144bdc92e03",
+         "name" : "Senthil Kumaran Theatres",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111659813144017093799\"\u003eSenthil Kumaran Theatres\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS086l65HvjGPV1PlbTIGQoJC_XeccbAykJ5YyhxIXnPoV4r5YWZYcyet7Tq_sHyE-Au0Q0zQe7tc8QPiIqkMfvmjtl8-1Rnbu-JH0W4Q902jfvThnSC7nsWZ9IfraubREhDBCgK571RCZe_wsdWSR7EwGhR7702b4f_M4N8DAOK8xagG5CBjKg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJrWV3W1VYqDsRbDFN_rrMvEc",
+         "plus_code" : {
+            "compound_code" : "2X77+WX Ram Nagar, Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3R2X77+WX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJrWV3W1VYqDsRbDFN_rrMvEc",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5913,
+         "vicinity" : "109, Ambal Complex, Gokhale Street, Ram Nagar, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0972451,
+               "lng" : 77.3554558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0986213302915,
+                  "lng" : 77.35688053029151
+               },
+               "southwest" : {
+                  "lat" : 11.0959233697085,
+                  "lng" : 77.3541825697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "2e1594b7e461cea6c4527d233edf8160f84f67ce",
+         "name" : "Usha Theatres",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112297463661151989612\"\u003eRanjith Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8WHKABbrJjC3HRsmn-tKeErFdXGWM9krbY34GIGWLaSThdQMvKoC5Hm8t2bYAy1H0Q-jAFkOShEE259kuId1u6xxbDRDP_zI0HUwHwCPy-MkQsQiZMZAbOylEMv0lGLREhCTvxMz5mCzwg6GeyPo4e_5GhTUKq3OzHH7Zk3enW4NhDUDF5GqDQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJE8rN978HqTsR_XkfI-q4w3Y",
+         "plus_code" : {
+            "compound_code" : "39W4+V5 Tiruppur, Tamil Nadu, India",
+            "global_code" : "7J3V39W4+V5"
+         },
+         "rating" : 4,
+         "reference" : "ChIJE8rN978HqTsR_XkfI-q4w3Y",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3831,
+         "vicinity" : "Dharapuram Road, Tiruppur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0168445,
+               "lng" : 76.95583209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0182044302915,
+                  "lng" : 76.95718168029151
+               },
+               "southwest" : {
+                  "lat" : 11.0155064697085,
+                  "lng" : 76.95448371970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "76c55fb7f00a9c71f7e87aa0d7c211ae729527e3",
+         "name" : "Shanthi Saradha Theatre",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111409839910988558912\"\u003esri nivas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC5TNenfLN92Cj0dzPgkqKXQqMX0-LjfhCRc__Lx0pOULd5zqMY5Tbq3TG6udd8OHYby9jcmUOacFPLdWazG6L0KKguYpAV3T4Zyn61FJaIT91D6xbuSKYxoR8l9mlvEwEhBMW9nN2qWIQiDpNBKd1n3vGhRPBx5oukiLX-IwSBwXnWAIKaMrQQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJkQVca1JYqDsRqQNxwazS_Ag",
+         "rating" : 3.2,
+         "reference" : "ChIJkQVca1JYqDsRqQNxwazS_Ag",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "29, Santhi Theatre Compound, S B I Road, S B I Road, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.014332,
+               "lng" : 76.953867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0158416802915,
+                  "lng" : 76.95519478029151
+               },
+               "southwest" : {
+                  "lat" : 11.0131437197085,
+                  "lng" : 76.9524968197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "9a99296485daf1e0ea66f9eb30ab98581c03224c",
+         "name" : "Maruthi Theatre",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108167583590193254607\"\u003eMaruthi Theatre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATKkeRDDP4v2gVkEB5mfm3kBgU-LbrtvFMZRIJLWPyZhC4ChpWH2Fgnrpj640Vdw1HESz_TKW_rMAhjAhTJVKp7SWoBoZYHtA0m4KBLiAwWe9-iaVO06iVwHxcy9tfk3zEhC9Hlo3wRavC5_xQKY7Z7xCGhQi2NwrRGw6DRpeKHkw8pgYca74tg",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJZRUgK_lYqDsRNxnVP9kkHJE",
+         "plus_code" : {
+            "compound_code" : "2X73+PG R S Puram West, Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3R2X73+PG"
+         },
+         "rating" : 3,
+         "reference" : "ChIJZRUgK_lYqDsRNxnVP9kkHJE",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 295,
+         "vicinity" : "15, Bashyakarlu Road, R S Puram West, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.998633,
+               "lng" : 76.96837119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9999781802915,
+                  "lng" : 76.96962538029149
+               },
+               "southwest" : {
+                  "lat" : 10.9972802197085,
+                  "lng" : 76.96692741970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "9abb2cf1dde7aa655b2a6502a2decd9227ac14be",
+         "name" : "Shanthi Theater",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102646487584799752510\"\u003eDevarajan S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1OQ7z_XKSdTKUbUoQDHyMXDVvwWVIW5huvmctfKrMLUYCErG-wL2NVsg9f7WIvepd4Yltyv7xa23PKezaQwnm-_I-u4VfbqkEi3O1em1Bqgd3cTddbgd9J_zoT3j6zlbEhDvzgfKvqkxoEx1Zhp7XDWUGhT2Z08zzAIEiXIniB_3Cus8jbhlDg",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJr7YmwaZZqDsR6hl5AKeEsA4",
+         "plus_code" : {
+            "compound_code" : "XXX9+F8 Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J2RXXX9+F8"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJr7YmwaZZqDsR6hl5AKeEsA4",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4106,
+         "vicinity" : "29, State Bank Road, Gopalapuram, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0096,
+               "lng" : 76.95523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0109482302915,
+                  "lng" : 76.95657448029151
+               },
+               "southwest" : {
+                  "lat" : 11.0082502697085,
+                  "lng" : 76.95387651970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "4c7d146176b7d3f7891e93e76f0a24e76bf82ade",
+         "name" : "Theatre Shanthi",
+         "place_id" : "ChIJQZegDgNZqDsRqQoYhBBiOx8",
+         "plus_code" : {
+            "compound_code" : "2X54+R3 Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3R2X54+R3"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJQZegDgNZqDsRqQoYhBBiOx8",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Avinashi Road, Avinashi Road, Near Bharat Petroleum, Peelamedu, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.002534,
+               "lng" : 77.006176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0039515802915,
+                  "lng" : 77.00751488029151
+               },
+               "southwest" : {
+                  "lat" : 11.0012536197085,
+                  "lng" : 77.00481691970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "883f24f6a8b566b9c7c627d892c04107a316cb9b",
+         "name" : "V Act Technologies",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107042022995751811602\"\u003eManu Arackal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqVeTpQ5yq02XGkLIujlCdaPEAHXseBqT_JqpQA31Ms4qlfsPTWOP75lUrnjbspd5Ly90AH3sNSzluoAclJu0O3J4b0Gx_1WGobvlXQM_7krI7lobAZayoeewibB7-54VEhCpZ0IQt7su9pTDm_V1cNH5GhRfQ8H_54SR5EnEduF0AJNuJXvnDw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJU1DhoNxZqDsRqU6dtkfh-CY",
+         "plus_code" : {
+            "compound_code" : "2234+2F Krishna Colony Extension, Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3V2234+2F"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJU1DhoNxZqDsRqU6dtkfh-CY",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "storage", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Corporate Office : 16 -2 Dhipa III Rd Street, Singanallur, Narayana Avenue, Krishna Colony Extension, Post"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.299719,
+               "lng" : 76.94099000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.3011946802915,
+                  "lng" : 76.94231393029152
+               },
+               "southwest" : {
+                  "lat" : 11.2984967197085,
+                  "lng" : 76.9396159697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "ef66fee96124eec3b83067218b0385186a4f9d8a",
+         "name" : "Sri Sakthi Theatre Mettupalayam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 541,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109886635544198494843\"\u003eSri Sakthi Theatre Mettupalayam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFMq2rE32RY2n3U46RAuMHO_Dv-YYj765uP240dQKODJqiRfGp51pl2v-xC5JuML5uuWcncSrOvzzKkl3-24tmgayLZ_HJjDlV2SBDoVnBFLb9O-t5xdqnWP3aV49V8haEhBOIvqGhoNzX6TiyIgo7YDBGhQRYUqcjwtnzFpQcLqduZniVSfQqw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJJ0kDteruqDsR0zHq9byBySA",
+         "plus_code" : {
+            "compound_code" : "7WXR+V9 Mettupalayam, Tamil Nadu, India",
+            "global_code" : "7J3R7WXR+V9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJJ0kDteruqDsR0zHq9byBySA",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1850,
+         "vicinity" : "Mettupalayam to Annur Road, Mettupalayam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0192445,
+               "lng" : 76.96443599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0206008302915,
+                  "lng" : 76.9658287802915
+               },
+               "southwest" : {
+                  "lat" : 11.0179028697085,
+                  "lng" : 76.96313081970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "19dfbf1768bbad3462ba6a259e2909631bbafee1",
+         "name" : "Karpagam complex",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJHcGWVP9YqDsRA5FFQxQ-Rlg",
+         "plus_code" : {
+            "compound_code" : "2X97+MQ Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3R2X97+MQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJHcGWVP9YqDsRA5FFQxQ-Rlg",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "10th Street, Gandhipuram"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0205087,
+               "lng" : 76.968457
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0218703302915,
+                  "lng" : 76.9698035302915
+               },
+               "southwest" : {
+                  "lat" : 11.0191723697085,
+                  "lng" : 76.96710556970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "9a5597c5ff8cc32472505c20e857afba81bd5961",
+         "name" : "SRI KUMARAN STUDIO",
+         "place_id" : "ChIJ5Sh9llZYqDsRphcFqogcR18",
+         "plus_code" : {
+            "compound_code" : "2XC9+69 Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3R2XC9+69"
+         },
+         "reference" : "ChIJ5Sh9llZYqDsRphcFqogcR18",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "vicinity" : "57, Doctor Rajendra Prasad Road, Gandhipuram"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0185047,
+               "lng" : 76.97467
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0199157802915,
+                  "lng" : 76.97599168029151
+               },
+               "southwest" : {
+                  "lat" : 11.0172178197085,
+                  "lng" : 76.97329371970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4a6952373b57b38e9700482ce72f94ada165f454",
+         "name" : "Lenze View",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113000019078914483878\"\u003eLenze View\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtFDsjPHizKoEOM-IlnCz_xJ1c-BmHjqRJz6_3iwMOcVtZ49izoXoKr0f7smQR-fhpSyWWu1ZbEysHMPpDizGQ4JyLSWnN5LfedcIlYPDvB2bk1ULqvYUCHtelP3QbuFeEhAfRIgaVy8phruUod1jZMBPGhTrs6OGFRds00zXAiUR_18IRzTvSg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJA_OCQFJYqDsRhwJV8fldH0I",
+         "plus_code" : {
+            "compound_code" : "2X9F+CV New Siddhapudur, Tamil Nadu, India",
+            "global_code" : "7J3R2X9F+CV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJA_OCQFJYqDsRhwJV8fldH0I",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "142, VKK Menon Road, New Siddhapudur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.9937864,
+               "lng" : 76.9639251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9952450802915,
+                  "lng" : 76.9652701302915
+               },
+               "southwest" : {
+                  "lat" : 10.9925471197085,
+                  "lng" : 76.96257216970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "c6db4867907179bcd885abc10a95e0dc4c345ffb",
+         "name" : "Photo PhotoPark Near Carnatic Cinemas, Ukkadam, Coimbatore",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2359,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105486388968888286821\"\u003eRam Lakshmanan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV690hieWNbSdxfeROnCLTRjFt8dZMEfj1_n9gAN3wUM3GmPQXlnGOUzjcJth0B2tjuKOlWpHRkcDQeJ6VL5HzybM4QkceEfx7p0fXPJ2ze7h6QsXFAPQI1MhKUJMRFjREhDl1g3-_DB02eKgmLxdmDdRGhQ4jsUfrUURtfo5u4EYYZT1lIQ_7g",
+               "width" : 4193
+            }
+         ],
+         "place_id" : "ChIJEVyhhApZqDsRyX3HIZViLZc",
+         "plus_code" : {
+            "compound_code" : "XXV7+GH Town Hall, Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J2RXXV7+GH"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJEVyhhApZqDsRyX3HIZViLZc",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 809,
+         "vicinity" : "1252, Big Bazaar Street, Poompuhar Nagar, Town Hall, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.991376,
+               "lng" : 76.962667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9926292802915,
+                  "lng" : 76.9640258802915
+               },
+               "southwest" : {
+                  "lat" : 10.9899313197085,
+                  "lng" : 76.96132791970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ec711c87550d2c58bfbf2d2d9941b25656b63a99",
+         "name" : "page has cancelled -(Tusker Cinema)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJEQAAQHVZqDsRyqGFzZQQQV8",
+         "plus_code" : {
+            "compound_code" : "XXR7+H3 Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J2RXXR7+H3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEQAAQHVZqDsRyqGFzZQQQV8",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "no 46/22-a, ramaswamy street fort, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0548183,
+               "lng" : 76.9943701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0561210802915,
+                  "lng" : 76.99581883029151
+               },
+               "southwest" : {
+                  "lat" : 11.0534231197085,
+                  "lng" : 76.99312086970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "3d753c1438bbed1d09f1c4f91c0a267ff5a978d9",
+         "name" : "INOX Prozone Mall",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110779007249654570378\"\u003eTamilselvan Teivasekamani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0BtvM4mQwTT90_E0wk9pY3vL6uDooLtegiAfKkb6R9bNQZ4JglcypAwbQSelx3tFBV3qmgP2KhaR2KSWuoR9Z7x-RyVLDcIqG8g04Q-jvcwitDBYx6rNFkAXewkmd4XgEhA63DY5QxBTbseGkc6539apGhRh8QtSQwByE7nnFPhD1Fi8cjHQQQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJA-PtRglYqDsRJsdjsXdLIP8",
+         "plus_code" : {
+            "compound_code" : "3X3V+WP Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J3R3X3V+WP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJA-PtRglYqDsRJsdjsXdLIP8",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11907,
+         "vicinity" : "Prozone Mall, S.F. No, 201, Sathy Road, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.02411,
+               "lng" : 77.01075899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0259369802915,
+                  "lng" : 77.01222688029149
+               },
+               "southwest" : {
+                  "lat" : 11.0232390197085,
+                  "lng" : 77.00952891970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "456988b7608804b7cd84a6251508172ecaca6140",
+         "name" : "Cinepolis (Fun Cinemas)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107494281013931722154\"\u003eBasker B\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANm43KI_MF5ENdbL6h-rQp_6gkXHe0Io2y631St8w85kPNxiYtHzOcYNw6SMNH8uyjz8hS74SivETte4N3IfdBk7RF_otr0Ark6T58c2_G9LJA8VcLAgrgjXpgY4YqYejEhB9RMhqhrNed0E9teFphnVJGhR3EEr1pi0UQrjIhR4YM5WI2XaPCg",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJJ2aqeIdXqDsRH7LVBp1wgGc",
+         "plus_code" : {
+            "compound_code" : "22F6+J8 Peelamedu, Tamil Nadu, India",
+            "global_code" : "7J3V22F6+J8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJ2aqeIdXqDsRH7LVBp1wgGc",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8153,
+         "vicinity" : "4th Floor Fun Republic Mall, Avinashi Road, Peelamedu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.9600784,
+               "lng" : 76.9808548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9612449802915,
+                  "lng" : 76.98227468029151
+               },
+               "southwest" : {
+                  "lat" : 10.95854701970849,
+                  "lng" : 76.9795767197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "c727232043ddd14d443b7072205a6f56a794b943",
+         "name" : "Arasan Cinemas",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115982369283514284048\"\u003eTamilselvan Swaminathan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAzHku4EcaqQGYCqnFuF5WHQHh9V3athJrv1AggS5kPerZbftkSMZ1Mc4Eq-VXijJpCxEeLHb9ji_2oSapD_M9Bz6eI-H8hXD-ABOOyDIMjcktAO9EBed--uuokBO7af9xEhCbFrJD5U8hLzofYBrfTcDxGhRakyniYJ6hnmJfQDqdyU43SIYYWw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJZchHuyRaqDsRtZZBiV0Eu7w",
+         "plus_code" : {
+            "compound_code" : "XX6J+28 Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J2RXX6J+28"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJZchHuyRaqDsRtZZBiV0Eu7w",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3711,
+         "vicinity" : "231, Sarada Mill Rd, Kurichi, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.0036695,
+               "lng" : 77.0413293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.0047584802915,
+                  "lng" : 77.0427368802915
+               },
+               "southwest" : {
+                  "lat" : 11.0020605197085,
+                  "lng" : 77.04003891970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "97b5f5f28a66d0c52b1029dd8d7367d46e1d3eaf",
+         "name" : "Jai Shanthi Theatre",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102735594566748448660\"\u003eSlingshot\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQFZKf1bWok8x7I58PVmufjiOs6lmllZOfkGzrMJWyL2KLFS65XPvPIRjhYPNjcubhrhxsQxyAYBZlJ-h1Z0W9y7Auvn4UlAb_-s6ybbdcsf62feChVtSLAjEsD2lzIS-EhBwGjCGVRyvMORvAbe8pDbsGhR9fPDo9WlHHRC43Ghy7EPUy-c_XQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJRVc4phFXqDsRkX1R9sO_iXY",
+         "plus_code" : {
+            "compound_code" : "223R+FG Singanallur, Tamil Nadu, India",
+            "global_code" : "7J3V223R+FG"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJRVc4phFXqDsRkX1R9sO_iXY",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1677,
+         "vicinity" : "Shop No, 207, Trichy Road, R K Nagar, Singanallur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.9159054,
+               "lng" : 76.9900454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9173809802915,
+                  "lng" : 76.99133123029149
+               },
+               "southwest" : {
+                  "lat" : 10.9146830197085,
+                  "lng" : 76.98863326970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "a8c62e8f0a12831d85a8dd068b0b8f33767f4359",
+         "name" : "Jayanta",
+         "place_id" : "ChIJS1CzeY1aqDsRh9Zuzt3pmmo",
+         "plus_code" : {
+            "compound_code" : "WX8R+92 Coimbatore, Tamil Nadu, India",
+            "global_code" : "7J2RWX8R+92"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJS1CzeY1aqDsRh9Zuzt3pmmo",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "Layout Road, Raj Vijay Nagar, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.303089,
+               "lng" : 76.93486799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.3044168302915,
+                  "lng" : 76.9361533302915
+               },
+               "southwest" : {
+                  "lat" : 11.3017188697085,
+                  "lng" : 76.93345536970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "d1b345eb09844480a66f2c07ea64e7ebbe09aaf8",
+         "name" : "Sivam Theatre Mettupalayam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113336078753373580182\"\u003eS H STUDIO\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHx0pkuoCxxIieKwfunZgnJMjvOE1ex-TFp0ftrRp6EOro70MUxTOZXFlDvfwDRMti-6DHXi7jEMLOiUPrhbCQEm0mxHXG9cuZfR8FGrku2vnG7WlSF9de9W_UDIAt3T8EhBrU7j-Szdy6bMM1V-g5eDYGhQcL3o24v3LllJBrn-IlfYJ8-OorQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJn6x12r3uqDsRAg-uSGO9Xb4",
+         "plus_code" : {
+            "compound_code" : "8W3M+6W Mettupalayam, Tamil Nadu, India",
+            "global_code" : "7J3R8W3M+6W"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJn6x12r3uqDsRAg-uSGO9Xb4",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1223,
+         "vicinity" : "73, Badrakaliamman Temple Road, Mahadevapuram,Mettupalayam, Coimbatore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.818188,
+               "lng" : 77.01935999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.8196539302915,
+                  "lng" : 77.0207339302915
+               },
+               "southwest" : {
+                  "lat" : 10.8169559697085,
+                  "lng" : 77.01803596970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "45ce62275e5f9c67bd2d3effe406aef8fd053cad",
+         "name" : "APA Cinemas - Dolby Atmos 64 Channel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 541,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110120277671403525877\"\u003eAPA Cinemas - Dolby Atmos 64 Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY7CAd4kRAD9YFeJmlKbhKZoj-rsERIa9qYiqjSoGUfGNPknwZbnQ2zDhG9mb53N6Vk7ybRSCDHcbwWnsdA0-Ma9Y08a5uJFfNidnRGB1JnfR-gg-05zkGkdXC8gpYnRLEhDhmRbQaa6bGQVln1L80IqZGhTk-97eO6xU7LR02rXqmtcUGrS81g",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ30khmmdPqDsRQKNmBmj8vrY",
+         "plus_code" : {
+            "compound_code" : "R299+7P Kinathukadavu, Tamil Nadu, India",
+            "global_code" : "7J2VR299+7P"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ30khmmdPqDsRQKNmBmj8vrY",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1455,
+         "vicinity" : "No 21, Kamaraj Colony, Kinathukadavu"
+      }
+   ],
+   "status" : "OK"
+}
